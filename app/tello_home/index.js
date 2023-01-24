@@ -99,7 +99,7 @@ function HomeScreen({ navigation }) {
 
       <View style={styles.box2}>     
         <Pressable onPressIn={fadeInB} onPressOut={() => 
-            navigation.navigate('ButtonFly', {
+            navigation.navigate('Fly', {
             IPAddress: text,
           })}>
             <Animated.View
