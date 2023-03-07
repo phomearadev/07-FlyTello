@@ -48,7 +48,7 @@ function HomeScreen({ navigation }) {
     <View style={styles.container1}>
         <Image
         style={styles.tellographic}
-        source={require('C:/APP/06-Tello/assets/TelloImage1.png')} />
+        source={require('C:/APP/07-FlyTello/assets/TelloImage1.png')} />
          <Text style={styles.tellotitle}> Tello </Text>
     </View>
 
